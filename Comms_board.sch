@@ -28,6 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:Comms_board-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -42,6 +43,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Label 4350 1200 0    60   ~ 0
-test
+Text Notes 3650 2450 0    60   ~ 0
+test text
 $EndSCHEMATC
