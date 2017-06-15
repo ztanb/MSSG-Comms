@@ -43,6 +43,4 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Notes 3650 2450 0    60   ~ 0
-test text
 $EndSCHEMATC
